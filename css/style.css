@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Work+Sans:wght@600&display=swap');
+
+@import url("components/container.css");
+@import url("components/logo.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	background-color: rgb(0,0,0);
+	margin: 0px;
+}
+h1, h2, h3{
+	color: white;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
+
